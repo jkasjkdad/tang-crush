@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'DƯN à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao DƯN cứ không chịu ăn cơm =.=`,
-    btnIntro: 'hihi',
+    btnIntro: 'hí hí',
     title: 'nấu cơm ăn đi 😙',
     desc: 'nấu cơm ăn đi đừng lười ',
     btnYes: 'ăn cơm <33',
