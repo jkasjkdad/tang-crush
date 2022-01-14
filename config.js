@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'ăn cơm <33',
     btnNo: 'Không ăn cơm:3',
     question:'đúng gòi đó ăn cơm đi <3',
-    btnReply: 'Gửi cho dưn <3',
+    btnReply: 'Gửi cho tứn <3',
     reply: 'ăn CƠM điiii <33333333',
     mess: 'NẤU Cơm ăn ĐI',
     messDesc: 'đừng ăn mì nữa nhé.',
